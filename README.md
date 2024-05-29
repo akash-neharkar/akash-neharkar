@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Jio Internship Project](https://github.com/harshtalrejaa/RIL_Internship_Project)
 
-- 🌱 I’m currently learning **Firebase, Convex**
+- 🌱 I’m currently learning **Firebase, Convex, Android**
 
 - 📫 How to reach me **akashneharkar8587@gmail.com**
 
