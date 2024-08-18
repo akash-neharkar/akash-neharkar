@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Jio Internship Project](https://github.com/harshtalrejaa/RIL_Internship_Project)
 
-- 🌱 I’m currently learning **Back-end**
+- 🌱 I’m currently learning **Springboot**
 
 - 📫 How to reach me **akashneharkar8587@gmail.com**
 
