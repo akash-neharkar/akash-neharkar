@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akash-neharkar" alt="akash-neharkar" /></a> </p>
 
-- 🔭 I’m currently working on [Jio Internship Project](https://github.com/harshtalrejaa/RIL_Internship_Project)
+- 🔭 I’m currently working on [Major Project](https://github.com/akash-neharkar/code-o-philes-project)
 
 - 🌱 I’m currently learning **Springboot**
 
