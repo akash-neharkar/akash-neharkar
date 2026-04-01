@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akash-neharkar" alt="akash-neharkar" /></a> </p>
 
-- 🔭 I’m currently working on [Major Project](https://github.com/akash-neharkar/code-o-philes-project)
+- 🔭 I’m currently working on **Workday Extend**
 
-- 🌱 I’m currently learning **Springboot**
+- 🌱 I’m currently learning **AI**
 
 - 📫 How to reach me **akashneharkar8587@gmail.com**
 
